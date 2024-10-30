@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<path fill="#FFFFFF" d="M65.934,44.584C68.484,41.227,70,37.041,70,32.5c0-11.044-8.957-20-20-20c-11.044,0-20,8.956-20,20
+	c0,4.541,1.516,8.727,4.066,12.084C25.619,49.891,20,59.285,20,70c0,16.57,13.43,30,30,30s30-13.43,30-30
+	C80,59.285,74.381,49.891,65.934,44.584z"/>
+<path fill="#D6EEF4" d="M80,70c0-10.715-5.619-20.109-14.066-25.416C68.484,41.227,70,37.041,70,32.5c0-11.044-8.957-20-20-20V100
+	C66.57,100,80,86.57,80,70z"/>
+<g>
+	<rect x="35" fill="#414141" width="30" height="20"/>
+	<rect x="50" fill="#353535" width="15" height="20"/>
+	<rect x="35" y="13" fill="#ED1B31" width="15" height="5"/>
+	<rect x="50" y="13" fill="#D3202F" width="15" height="5"/>
+	<rect x="25" y="18" fill="#303030" width="50" height="2"/>
+	<rect x="50" y="18" fill="#202020" width="25" height="2"/>
+</g>
+<circle fill="#202020" cx="57.5" cy="27.5" r="2.5"/>
+<circle fill="#202020" cx="42.5" cy="27.5" r="2.5"/>
+<g id="nouse_x5F_sm_x5F_1">
+	<circle fill="#F68B1F" cx="50" cy="35" r="3.5"/>
+	<path fill="#E08526" d="M53.5,35c0-1.933-1.566-3.5-3.5-3.5v7C51.934,38.5,53.5,36.933,53.5,35z"/>
+</g>
+<g>
+	<g>
+		<path fill="none" stroke="#202020" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M40,40
+			c0,0,0.125,0.357,0.466,0.88"/>
+		
+			<path fill="none" stroke="#202020" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.9663,3.9326" d="
+			M43.351,43.498C44.86,44.339,47,45,50,45c4.275,0,6.806-1.343,8.251-2.637"/>
+		<path fill="none" stroke="#202020" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M59.534,40.88
+			C59.875,40.357,60,40,60,40"/>
+	</g>
+</g>
+<g id="tie">
+	<polygon fill="#202020" points="50,50 46,52.5 48,57.5 42.5,87.5 50,95 57.5,87.5 52,57.5 54,52.5 	"/>
+	<g>
+		<defs>
+			<polygon id="SVGID_1_" points="50,50 46,52.5 48,57.5 42.5,87.5 50,95 57.5,87.5 52,57.5 54,52.5 			"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		<g clip-path="url(#SVGID_2_)">
+			<rect x="35" y="52.5" fill="#ED1B31" width="15" height="5"/>
+			<rect x="50" y="52.5" fill="#D3202F" width="15" height="5"/>
+			<rect x="35" y="62.5" fill="#ED1B31" width="15" height="5"/>
+			<rect x="50" y="62.5" fill="#D3202F" width="15" height="5"/>
+			<rect x="35" y="72.5" fill="#ED1B31" width="15" height="5"/>
+			<rect x="50" y="72.5" fill="#D3202F" width="15" height="5"/>
+			<rect x="35" y="82.5" fill="#ED1B31" width="15" height="5"/>
+			<rect x="50" y="82.5" fill="#D3202F" width="15" height="5"/>
+			<rect x="35" y="92.5" fill="#ED1B31" width="15" height="5"/>
+			<rect x="50" y="92.5" fill="#D3202F" width="15" height="5"/>
+		</g>
+	</g>
+</g>
+</svg>
